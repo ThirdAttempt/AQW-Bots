@@ -1,5 +1,6 @@
 # AQW-Bots
-GitHub Repo for AQW bot(s) (Cockroach Moe) 
+GitHub Repo for the following AQW bot(s): 
+- Cockroach Moe 
 ## How to download and use
 1. Have Skua 1.2.4.0 installed (may change in the future)
 2. Download the Bot file
